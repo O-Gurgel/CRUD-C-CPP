@@ -16,7 +16,7 @@ and grades, and generate academic reports.
   - Courses containing a given search term;
   - Courses with an average below 6.0;
   - Full student record sheet.
-- **Test data:** a menu option that fills the system with sample data
+- **Test data:** a menu option that fills the system with sample data.
 
 ## Requirements
 
